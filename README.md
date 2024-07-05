@@ -20,3 +20,13 @@ Then run
 ```
 
 Make sure to allow the access it asks for tracking the real location.
+
+## Screenshots
+
+- Screenshot 1 
+
+![](Screenshots/S1.png)
+
+- Screenshot 2
+
+![](Screenshots/S2.png)
